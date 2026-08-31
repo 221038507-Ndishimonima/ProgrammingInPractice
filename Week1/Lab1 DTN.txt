@@ -1,0 +1,25 @@
+
+C:\Users\ndish>arp -a
+
+Interface: 192.168.56.1 --- 0x12
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static
+  224.0.0.2             01-00-5e-00-00-02     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.251           01-00-5e-00-00-fb     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  224.0.0.253           01-00-5e-00-00-fd     static
+  224.0.1.187           01-00-5e-00-01-bb     static
+  239.192.152.143       01-00-5e-40-98-8f     static
+  239.255.102.18        01-00-5e-7f-66-12     static
+  239.255.255.250       01-00-5e-7f-ff-fa     static
+
+Interface: 10.199.105.135 --- 0x16
+  Internet Address      Physical Address      Type
+  10.199.104.1          bc-f1-f2-60-55-d1     dynamic
+  224.0.0.2             01-00-5e-00-00-02     static
+  224.0.0.22            01-00-5e-00-00-16     static
+  224.0.0.251           01-00-5e-00-00-fb     static
+  224.0.0.252           01-00-5e-00-00-fc     static
+  239.255.255.250       01-00-5e-7f-ff-fa     static
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static
